@@ -1,0 +1,77 @@
+<!index.html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atendente Virtual de IA</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #0A192F;
+            color: white;
+            text-align: center;
+        }
+        .container {
+            max-width: 900px;
+            margin: 50px auto;
+            background: #112240;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0, 255, 255, 0.2);
+        }
+        h1 {
+            color: #64FFDA;
+        }
+        .cta {
+            background-color: #64FFDA;
+            color: #0A192F;
+            padding: 15px;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 5px;
+            display: inline-block;
+            margin-top: 20px;
+            font-weight: bold;
+        }
+        .cta:hover {
+            background-color: #52E0C4;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: rgba(100, 255, 218, 0.1);
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .image-section {
+            margin-top: 20px;
+        }
+        .image-section img {
+            width: 100%;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Atendente Virtual de IA</h1>
+        <p>Atenda seus clientes 24h por dia sem perder vendas! Nossa IA automatiza seu atendimento, captura leads e melhora sua conversão.</p>
+        <div class="image-section">
+            <img src="https://source.unsplash.com/900x400/?technology,ai" alt="Atendente Virtual de IA">
+        </div>
+        <h2>O que nossa IA faz por você?</h2>
+        <ul>
+            <li>Responde dúvidas frequentes automaticamente</li>
+            <li>Capta e qualifica leads</li>
+            <li>Realiza agendamentos e follow-up</li>
+            <li>Atende no WhatsApp, Instagram e site</li>
+        </ul>
+        <a href="#" class="cta">Teste Grátis Agora</a>
+    </div>
+</body>
+</html>
